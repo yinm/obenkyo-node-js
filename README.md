@@ -1,1 +1,1 @@
-# obenkyo-node-js
+Node.jsの気になったことをあれこれ試すためのrepositoryです。
