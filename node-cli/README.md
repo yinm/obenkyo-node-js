@@ -1,0 +1,1 @@
+refs: [CLIに目覚めた！Node.jsで作るコマンドラインツール](http://sitest.jp/blog/?p=3712)
